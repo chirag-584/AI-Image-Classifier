@@ -1,7 +1,4 @@
 # AI-Image-Classifier
-Sure, here's a structured README file for your GitHub repository:
-
----
 
 # AI Image Classifier and Streamlit Dashboard
 
