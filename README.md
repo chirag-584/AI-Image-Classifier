@@ -84,4 +84,3 @@ This project is licensed under the MIT License.
 
 - Thanks to Kaggle for providing the dataset used for training.
 
-Feel free to customize this README further based on your specific project details and preferences.
